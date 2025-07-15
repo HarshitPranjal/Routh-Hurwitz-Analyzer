@@ -8,7 +8,7 @@ affiliations:
     index: 1
 date: 2025-07-14
 software_repository: https://github.com/HarshitPranjal/routh-hurwitz-analyzer
-archive: https://zenodo.org/record/XXXXXXXXX
+archive: https://zenodo.org/badge/DOI/10.5281/zenodo.15908922.svg
 repository_artifact: https://github.com/<your-username>/routh-hurwitz-analyzer/releases/tag/v1.0.0
 ---
 
